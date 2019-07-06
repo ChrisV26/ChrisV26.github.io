@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## Personal Info
 
-You can use the [editor on GitHub](https://github.com/ChrisV26/ChrisV26.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Currently I'm a student at UniWA-Department of Informatics & Computer Engineering living in Athens, Greece.
+I always admired tech/science and enjoy learning new things,solving problems thus decided to follow this path. You may find me tinkering with code or reading forums/articles.
+My interests apart from programming consists of Video Games,Movies,Books,Board Games and Football!
+Also,Traveling is something I want to do more in the near future.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Feel free to contact me in the email provided!
 
 ### Markdown
 
